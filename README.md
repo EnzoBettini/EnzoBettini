@@ -11,4 +11,4 @@
 - Programação em C, Python e JavaScript 💻
 - Serviços como AWS e Azure
 - Cibersegurança 🔒
-- Certificações técnicas (atualmente estudando para certificações Palo Alto Networks) 📜
+- Certificações técnicas (atualmente estudando para certificações Palo Alto Networks / Cisco Networking Academy) 📜
