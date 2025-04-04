@@ -62,7 +62,7 @@ Programming Lenguages & Tools: `Bizagi` `Microsoft DevOps`
 ## 📊 Github Stats
 
 <div align="center">
-  <a href="https://github.com/filiperuizb">
+  <a href="https://github.com/EnzoBettini">
     <img src="https://github-readme-stats.vercel.app/api?username=EnzoBettini&theme=dark&show_icons=true" width="450"/>
   </a>
 </div>
