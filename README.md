@@ -63,9 +63,10 @@ Programming Lenguages & Tools: `Bizagi` `Microsoft DevOps`
 
 <div align="center">
   <a href="https://github.com/EnzoBettini">
-    <img src="https://github-readme-stats.vercel.app/api?username=EnzoBettini&theme=dark&show_icons=true" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBettini&layout=compact&hide_progress=false" alt="Top Languages" />
   </a>
 </div>
+
 
 ---
 
