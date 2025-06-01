@@ -20,7 +20,7 @@
 
 ### 🔹 Programing Lenguages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,js" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,js,php" height="40"/>
 </p>
 
 ### 🔹 Web Development
