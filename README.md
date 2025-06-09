@@ -42,19 +42,10 @@
 
 **IT Intern** \
 [**Cooper Tec**](https://www.coopertec.com.br/) • Part-Time - Product Owner \
-Programming Lenguages & Tools: `Figma` `Microsoft DevOps`
+Programming Lenguages & Tools: `Figma` `Microsoft DevOps` `Developer` `AI`
 
 <br></br>
 
-
-
-<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/D4D0BAQERzyQbzwrXng/company-logo_200_200/company-logo_200_200/0/1735564673532/coopercardbr_logo?e=2147483647&v=beta&t=zL6EsZ4LTeLJNs1VvbFe_Bu16jBjkj3xRUxUcov1w9Q"/>
-
-**IT Intern** \
-[**Cooper Card**](https://www.coopercard.com.br/Portal/) • Part-Time - Process Analyst\
-Programming Lenguages & Tools: `Bizagi` `Microsoft DevOps`
-
-<br></br>
 
 ---
 
