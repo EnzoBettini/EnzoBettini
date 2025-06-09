@@ -20,12 +20,12 @@
 
 ### 🔹 Programing Lenguages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,js,php" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,js,php,python" height="40"/>
 </p>
 
 ### 🔹 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,vue" height="40"/>
 </p>
 
 ### 🔹 DevOps & Version Control
