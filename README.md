@@ -20,7 +20,7 @@
 
 ### 🔹 Programing Lenguages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,js,php,python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,js,php,python,nodejs" height="40"/>
 </p>
 
 ### 🔹 Web Development
@@ -28,9 +28,19 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,vue" height="40"/>
 </p>
 
+### 🔹 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+</p>
+
 ### 🔹 DevOps & Version Control
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github" height="40"/>
+</p>
+
+### 🔹 Tools and Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ablenton,anaconda,figma,flask" height="40"/>
 </p>
 
 ---
