@@ -40,7 +40,7 @@
 
 ### 🔹 Tools and Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ablenton,anaconda,figma,flask" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ableton,anaconda,figma,flask" height="40"/>
 </p>
 
 ---
