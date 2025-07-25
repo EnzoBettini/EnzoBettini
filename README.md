@@ -25,7 +25,12 @@
 
 ### 🔹 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,vue" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass" height="40"/>
+</p>
+
+### 🔹 Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,django" height="40"/>
 </p>
 
 ### 🔹 Databases
