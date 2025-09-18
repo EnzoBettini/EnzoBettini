@@ -30,7 +30,7 @@
 
 ### 🔹 Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,django" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vue,django, react" height="40"/>
 </p>
 
 ### 🔹 Databases
