@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Enzo+Bettini">
   </a>
 </p>
 
@@ -11,8 +11,7 @@
 ## 🚀 About me
 
 - 🎓 Studying **Software Engineering** at **Unicesumar**
-- 💡 Chasing Cybersecurity, AI and programming Certificates!
-- 🎨 **UX/UI** using **Figma**
+- 💡 Currently working as a Software Developer / AI Product development!
  
 ---
 
@@ -20,12 +19,12 @@
 
 ### 🔹 Programing Lenguages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,js,php,python,nodejs,java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php,python,nodejs,java" height="40"/>
 </p>
 
 ### 🔹 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,ts,js" height="40"/>
 </p>
 
 ### 🔹 Frameworks
@@ -45,7 +44,7 @@
 
 ### 🔹 Tools and Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ableton,anaconda,figma,flask" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ableton,figma,flask,spring" height="40"/>
 </p>
 
 ---
@@ -56,8 +55,16 @@
 <img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/C560BAQGRE-eKf4a2ow/company-logo_200_200/company-logo_200_200/0/1630600972215/cooper_tec_logo?e=2147483647&v=beta&t=HGXUNKyBHqqzXKBm-4-GIeXlRKyD-aTb1H3KmusLQn0"/>
 
 **IT Intern** \
-[**Cooper Tec**](https://www.coopertec.com.br/) • Part-Time - Product Owner \
-Programming Lenguages & Tools: `Figma` `Microsoft DevOps` `Developer` `AI`
+[**Cooper Tec**](https://www.coopertec.com.br/) • Part-Time - Full-Stack & AI/Automation Intern
+Programming Lenguages & Tools: `Microsoft Office` `Bizagi` `HTML` `JS` `Vue 2 & 3` `PHP` `Figma` `Azure DevOps` `Python` `n8n`
+
+<br></br>
+
+<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/v2/C4E0BAQHr6HDhtgWR-Q/company-logo_200_200/company-logo_200_200/0/1670865559521/tryjeeves_logo?e=2147483647&v=beta&t=gzMLGd0FCmv51-UBtXHCaz21uOZs0j9qsRB0andhoFM"/>
+
+**IT Intern** \
+[**Jeeves**](https://www.tryjeeves.com/br) • Part-Time - AI Developer
+Programming Lenguages & Tools: `Python` `Cursor` `Open AI`
 
 <br></br>
 
